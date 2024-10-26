@@ -2,7 +2,7 @@
 #00A6FB
 #0582CA
 #006494
-#003554
+#00a6fb
 #051923
 */
 
@@ -93,7 +93,7 @@ a:hover {
 }
 
 .color-b {
-    color: #ff0000;
+    color: #00a6fb;
 }
 
 .color-d {
@@ -183,7 +183,7 @@ a:hover {
 .pagination-a .pagination .page-link:hover,
 .pagination-a .pagination .page-link:active,
 .pagination-a .pagination .page-link:focus {
-    background-color: #00a6fb;
+    background-color: #0582CA;
 }
 
 .pagination-a .pagination .page-link span {
@@ -1332,7 +1332,7 @@ a:hover {
 
 .card-box-ico {
     padding: 1rem 3rem 1rem 2.5rem;
-    border: 5px solid #ff0000;
+    border: 5px solid #00a6fb;
 }
 
 .card-box-ico span {
